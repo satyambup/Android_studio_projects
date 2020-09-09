@@ -1,0 +1,2 @@
+rootProject.name='PROJECT_SPREAD_SHEET'
+include ':app'

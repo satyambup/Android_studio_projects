@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableRow>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_span="1"
+            android:gravity="center_horizontal"
+            android:text="LOGIN FORM"
+            android:textColor="#00ff00"
+            android:textSize="50sp"
+            android:textStyle="italic" />
+
+    </TableRow>
+
+</TableLayout>

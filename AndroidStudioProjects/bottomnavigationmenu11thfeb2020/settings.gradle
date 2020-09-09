@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='bottom navigation menu 11th feb 2020'

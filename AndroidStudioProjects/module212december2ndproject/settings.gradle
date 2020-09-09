@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='module2, 12december 2nd project'
